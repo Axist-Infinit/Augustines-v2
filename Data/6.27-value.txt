@@ -1,0 +1,145 @@
+No.	Name	Stocks	Market Cap	Dividend	P/E	Fwd P/E	PEG	Float Short	Change	Volume
+1	Advertising Agencies	42	190.88B	0.86%	37.95	20.22	1.25	6.69%	-1.96%	132.08M
+2	Aerospace & Defense	75	1466.58B	0.87%	42.84	29.46	2.90	4.26%	1.73%	373.16M
+3	Agricultural Inputs	16	124.98B	2.33%	30.67	16.38	2.89	1.86%	0.11%	21.82M
+4	Airlines	18	145.92B	1.22%	11.80	8.42	0.64	6.72%	1.04%	143.77M
+5	Airports & Air Services	9	35.11B	4.73%	24.19	17.87	1.91	7.88%	0.24%	57.66M
+6	Aluminum	4	12.27B	1.27%	11.28	9.22	0.26	5.50%	-3.17%	16.96M
+7	Apparel Manufacturing	27	61.23B	1.25%	28.85	16.77	2.30	9.29%	0.92%	63.15M
+8	Apparel Retail	33	259.77B	1.24%	17.72	19.19	2.31	5.74%	0.97%	89.45M
+9	Asset Management	134	1293.19B	2.38%	28.31	17.45	2.04	2.70%	1.06%	222.22M
+10	Auto & Truck Dealerships	28	146.00B	0.28%	28.89	21.14	0.76	6.88%	2.06%	38.10M
+11	Auto Manufacturers	32	1608.00B	1.02%	26.07	23.63	1.90	5.47%	0.27%	646.44M
+12	Auto Parts	56	282.73B	0.86%	21.54	15.24	1.93	6.69%	0.90%	284.50M
+13	Banks - Diversified	19	3079.34B	3.10%	13.12	11.00	1.18	0.43%	-0.01%	173.66M
+14	Banks - Regional	345	1654.39B	3.13%	14.35	10.52	1.03	1.34%	0.20%	659.34M
+15	Beverages - Brewers	7	220.73B	3.14%	22.61	14.39	2.31	0.44%	-0.52%	49.53M
+16	Beverages - Non-Alcoholic	17	677.22B	2.88%	26.07	19.62	3.70	1.70%	1.04%	128.79M
+17	Beverages - Wineries & Distilleries	13	82.37B	3.33%	18.45	17.78	75.95	3.12%	0.06%	11.68M
+18	Biotechnology	646	805.21B	0.10%	55.53	32.48	2.98	11.44%	-0.85%	1.36B
+19	Broadcasting	14	12.04B	3.30%	7.94	7.13	-	6.61%	-0.45%	36.27M
+20	Building Materials	17	174.17B	1.08%	21.34	16.89	1.86	2.91%	2.25%	37.27M
+21	Building Products & Equipment	35	376.66B	1.00%	24.68	20.75	2.26	3.23%	0.79%	65.51M
+22	Business Equipment & Supplies	4	1.15B	4.59%	29.54	11.85	-	2.62%	0.18%	1.44M
+23	Capital Markets	73	976.11B	1.56%	21.86	17.74	1.68	5.12%	-0.43%	576.27M
+24	Chemicals	17	37.76B	6.46%	43.81	16.43	10.71	5.73%	-0.26%	42.52M
+25	Coking Coal	5	4.98B	1.66%	22.19	7.59	1.09	9.29%	4.08%	6.47M
+26	Communication Equipment	49	529.01B	1.91%	33.42	17.95	3.98	2.02%	-0.01%	204.15M
+27	Computer Hardware	34	398.15B	0.78%	28.73	20.24	1.37	8.20%	-1.17%	323.26M
+28	Confectioners	4	124.55B	2.66%	26.31	23.81	-	2.19%	0.02%	14.45M
+29	Conglomerates	24	253.34B	1.97%	22.82	19.13	3.03	2.64%	0.92%	34.08M
+30	Consulting Services	17	100.65B	0.70%	32.50	25.87	2.68	2.52%	0.63%	12.59M
+31	Consumer Electronics	18	3167.26B	0.52%	30.69	25.40	4.09	0.64%	0.18%	92.24M
+32	Copper	7	154.58B	2.20%	28.04	20.41	2.11	2.59%	-1.74%	46.71M
+33	Credit Services	52	1733.86B	0.77%	28.45	20.90	2.00	4.20%	0.85%	183.77M
+34	Department Stores	3	10.52B	5.01%	9.75	13.00	-	19.18%	1.15%	31.44M
+35	Diagnostics & Research	51	614.81B	0.39%	33.81	20.85	3.55	4.98%	-0.50%	94.37M
+36	Discount Stores	9	1333.67B	0.90%	40.83	33.56	4.48	1.60%	0.91%	52.60M
+37	Drug Manufacturers - General	20	3034.23B	3.01%	24.53	13.07	1.21	1.09%	-0.75%	209.66M
+38	Drug Manufacturers - Specialty & Generic	83	302.69B	1.58%	34.58	13.77	2.16	2.55%	-0.63%	168.65M
+39	Education & Training Services	44	53.10B	0.52%	21.63	17.45	1.30	4.71%	0.73%	45.67M
+40	Electrical Equipment & Parts	47	123.61B	0.54%	35.86	22.15	1.94	13.83%	0.97%	218.78M
+41	Electronic Components	46	326.16B	0.86%	43.40	23.15	2.69	2.30%	0.21%	121.08M
+42	Electronic Gaming & Multimedia	23	242.95B	0.80%	40.33	20.18	1.93	2.50%	0.23%	29.61M
+43	Electronics & Computer Distribution	11	29.81B	0.91%	17.46	10.40	1.35	5.19%	-0.85%	5.23M
+44	Engineering & Construction	52	304.27B	0.46%	24.45	25.91	1.53	2.83%	1.07%	46.90M
+45	Entertainment	50	1168.08B	0.23%	54.73	37.03	2.63	6.21%	1.07%	181.92M
+46	Farm & Heavy Construction Machinery	27	416.37B	1.70%	19.69	18.06	12.94	3.82%	0.69%	44.81M
+47	Farm Products	21	67.18B	3.64%	15.02	12.46	2.37	3.38%	-1.09%	17.15M
+48	Financial Conglomerates	6	43.37B	12.82%	14.39	2.63	1.00	0.95%	0.70%	11.65M
+49	Financial Data & Stock Exchanges	15	711.31B	1.24%	39.38	27.30	4.43	2.36%	0.02%	52.66M
+50	Food Distribution	14	75.82B	1.41%	25.39	16.69	1.93	3.46%	0.87%	14.67M
+51	Footwear & Accessories	16	167.45B	1.43%	26.36	23.56	2.37	5.31%	9.98%	173.16M
+52	Furnishings, Fixtures & Appliances	36	56.38B	1.54%	25.75	13.29	2.31	6.80%	1.29%	54.18M
+53	Gambling	17	119.40B	0.24%	63.47	24.93	2.28	4.77%	1.97%	60.07M
+54	Gold	50	383.46B	1.65%	20.90	12.34	0.99	2.32%	-3.96%	318.12M
+55	Grocery Stores	11	81.95B	1.59%	20.01	14.91	1.79	6.88%	0.43%	53.93M
+56	Health Information Services	53	117.85B	0.11%	74.10	37.88	4.22	7.37%	0.60%	122.78M
+57	Healthcare Plans	12	623.85B	2.44%	14.18	10.88	1.70	2.92%	1.30%	125.24M
+58	Home Improvement Retail	7	501.02B	2.35%	23.14	20.92	4.06	1.63%	1.32%	12.08M
+59	Household & Personal Products	31	781.33B	2.70%	26.74	20.78	4.79	2.41%	0.69%	206.25M
+60	Industrial Distribution	19	219.30B	1.35%	28.78	23.03	3.44	3.32%	0.77%	36.61M
+61	Information Technology Services	71	1017.01B	1.66%	29.01	19.38	3.33	3.24%	-0.35%	694.07M
+62	Insurance - Diversified	12	2250.25B	0.21%	24.79	37.07	17.40	1.00%	0.17%	31.09M
+63	Insurance - Life	17	296.46B	2.97%	14.05	8.75	1.71	2.75%	0.29%	51.57M
+64	Insurance - Property & Casualty	46	632.16B	1.61%	12.45	13.09	1.55	2.12%	0.43%	57.79M
+65	Insurance - Reinsurance	7	44.21B	1.54%	12.53	6.64	0.85	1.97%	-0.64%	4.72M
+66	Insurance - Specialty	17	82.46B	1.96%	14.42	11.19	0.91	3.22%	0.39%	19.50M
+67	Insurance Brokers	22	369.75B	1.05%	33.28	21.89	3.04	1.61%	0.45%	36.98M
+68	Integrated Freight & Logistics	28	209.29B	3.88%	16.00	13.16	2.27	3.29%	1.70%	28.40M
+69	Internet Content & Information	75	6529.17B	0.16%	39.42	34.59	3.03	2.92%	1.75%	544.77M
+70	Internet Retail	42	3302.85B	0.14%	30.56	23.57	1.26	1.81%	2.12%	265.82M
+71	Leisure	30	78.58B	0.64%	33.52	21.87	1.53	9.19%	1.92%	82.57M
+72	Lodging	14	197.63B	0.96%	32.47	24.77	2.79	4.32%	1.79%	25.73M
+73	Lumber & Wood Production	6	21.75B	1.20%	21.96	14.12	4.82	2.53%	-0.45%	4.00M
+74	Luxury Goods	12	25.75B	1.42%	30.38	14.70	2.51	9.33%	0.75%	33.70M
+75	Marine Shipping	40	33.08B	4.64%	5.05	7.90	0.30	4.68%	0.33%	29.10M
+76	Medical Care Facilities	51	219.76B	0.74%	18.47	13.99	1.42	4.60%	0.48%	76.79M
+77	Medical Devices	146	974.16B	1.11%	32.60	22.96	2.73	3.27%	0.68%	387.47M
+78	Medical Distribution	12	198.75B	0.62%	29.10	17.11	2.46	4.45%	0.73%	20.73M
+79	Medical Instruments & Supplies	60	485.00B	0.51%	47.83	23.96	4.12	3.86%	0.11%	85.75M
+80	Metal Fabrication	18	50.07B	0.52%	27.87	19.73	1.42	5.03%	0.72%	35.08M
+81	Mortgage Finance	14	55.49B	0.64%	48.78	23.28	0.98	16.94%	-1.05%	46.05M
+82	Oil & Gas Drilling	9	15.73B	3.78%	13.38	15.74	-	14.02%	0.04%	74.62M
+83	Oil & Gas E&P	85	660.84B	3.12%	13.31	11.81	0.90	4.75%	-0.72%	261.36M
+84	Oil & Gas Equipment & Services	51	198.42B	2.63%	13.07	11.86	1.19	4.67%	-0.15%	139.79M
+85	Oil & Gas Integrated	22	1496.81B	4.97%	13.74	10.75	1.52	1.03%	-0.41%	99.65M
+86	Oil & Gas Midstream	57	827.20B	4.92%	18.20	15.91	2.49	2.25%	-0.23%	177.19M
+87	Oil & Gas Refining & Marketing	17	181.77B	4.10%	28.93	12.72	1.61	5.97%	-0.56%	51.76M
+88	Other Industrial Metals & Mining	44	280.80B	4.81%	10.66	10.40	-	2.46%	0.22%	217.08M
+89	Other Precious Metals & Mining	14	21.62B	0.63%	37.96	13.32	1.02	2.78%	-4.43%	63.09M
+90	Packaged Foods	66	255.50B	3.97%	18.13	13.35	5.33	4.44%	-0.16%	139.00M
+91	Packaging & Containers	23	163.28B	3.15%	23.29	12.77	0.90	3.67%	0.15%	69.60M
+92	Paper & Paper Products	6	14.72B	4.15%	52.98	7.06	-	0.69%	-0.65%	7.99M
+93	Personal Services	15	58.69B	1.51%	28.33	23.55	2.32	3.20%	0.87%	9.64M
+94	Pharmaceutical Retailers	8	10.26B	6.33%	-	8.16	-	3.03%	0.49%	12.83M
+95	Pollution & Treatment Controls	18	42.44B	0.44%	32.48	26.53	3.16	8.24%	-0.31%	15.64M
+96	Publishing	9	22.76B	1.91%	22.64	18.17	2.18	2.76%	0.51%	9.20M
+97	Railroads	12	435.12B	1.80%	21.19	18.04	2.23	1.28%	0.27%	41.43M
+98	Real Estate - Development	15	8.45B	1.12%	11.79	14.37	-	4.59%	0.72%	1.71M
+99	Real Estate - Diversified	3	6.43B	0.51%	18.86	41.84	7.23	2.18%	0.26%	1.30M
+100	Real Estate Services	46	143.22B	0.44%	48.90	22.15	2.31	4.07%	0.39%	73.04M
+101	Recreational Vehicles	15	21.71B	2.97%	26.00	15.89	7.11	8.83%	0.95%	15.66M
+102	REIT - Diversified	17	59.25B	5.78%	17.08	15.14	4.79	3.20%	0.10%	25.35M
+103	REIT - Healthcare Facilities	17	240.52B	2.55%	113.94	66.15	2.96	7.15%	-0.70%	65.36M
+104	REIT - Hotel & Motel	16	30.79B	5.50%	21.90	24.08	-	6.62%	0.29%	53.13M
+105	REIT - Industrial	18	254.78B	4.15%	30.41	33.16	29.10	2.49%	0.46%	44.70M
+106	REIT - Mortgage	40	59.64B	12.60%	19.02	7.09	3.56	5.00%	-0.40%	127.24M
+107	REIT - Office	24	73.99B	4.36%	84.35	64.77	1.54	6.30%	0.48%	73.56M
+108	REIT - Residential	21	199.64B	3.78%	42.64	46.37	5.99	2.44%	-0.41%	35.64M
+109	REIT - Retail	28	216.55B	4.75%	31.88	32.24	2.62	3.74%	-0.22%	50.00M
+110	REIT - Specialty	18	394.75B	3.29%	61.02	35.61	3.59	2.82%	1.18%	42.85M
+111	Rental & Leasing Services	20	147.44B	0.89%	21.23	15.49	2.39	8.94%	0.54%	64.30M
+112	Residential Construction	21	163.37B	0.95%	9.38	10.27	-	4.69%	0.97%	28.19M
+113	Resorts & Casinos	18	89.99B	1.63%	24.97	16.02	2.17	6.19%	1.23%	45.71M
+114	Restaurants	55	590.25B	1.94%	29.85	24.73	3.05	4.19%	1.06%	135.59M
+115	Scientific & Technical Instruments	32	196.38B	0.53%	29.26	20.25	2.34	5.27%	0.30%	82.22M
+116	Security & Protection Services	23	42.14B	1.29%	21.68	14.20	2.35	4.61%	0.21%	36.92M
+117	Semiconductor Equipment & Materials	29	771.50B	0.90%	29.16	23.52	1.70	4.42%	-0.40%	70.96M
+118	Semiconductors	66	7865.85B	0.56%	47.65	25.50	1.70	1.69%	1.16%	702.47M
+119	Shell Companies	166	22.49B	-	97.66	210.20	1.52	0.34%	-0.08%	14.57M
+120	Silver	4	8.31B	0.61%	53.84	21.31	0.97	6.32%	-3.66%	45.27M
+121	Software - Application	230	2956.92B	0.39%	49.82	31.69	2.68	4.59%	0.53%	724.57M
+122	Software - Infrastructure	160	5857.79B	0.54%	45.16	32.87	2.77	4.00%	-0.82%	820.46M
+123	Solar	25	38.73B	0.19%	19.73	10.18	0.83	13.85%	-1.88%	95.26M
+124	Specialty Business Services	42	423.55B	1.00%	41.47	30.13	3.96	2.15%	0.31%	63.66M
+125	Specialty Chemicals	57	651.33B	1.79%	32.29	20.05	3.75	3.71%	0.32%	165.53M
+126	Specialty Industrial Machinery	78	1014.59B	1.05%	31.41	23.99	2.86	3.94%	0.82%	188.57M
+127	Specialty Retail	47	175.83B	1.42%	20.83	17.19	2.99	10.14%	0.49%	74.19M
+128	Staffing & Employment Services	19	19.45B	3.17%	22.04	13.33	2.36	5.15%	-0.10%	9.89M
+129	Steel	27	147.93B	2.05%	23.05	10.86	1.10	2.73%	-0.50%	70.35M
+130	Telecom Services	58	1269.30B	3.56%	17.22	12.56	1.50	1.47%	0.67%	252.20M
+131	Textile Manufacturing	3	2.24B	1.35%	29.92	17.21	-	1.92%	0.53%	745.35K
+132	Thermal Coal	6	10.61B	4.35%	10.44	7.76	1.96	7.35%	0.14%	7.87M
+133	Tobacco	10	488.50B	4.73%	22.66	14.75	2.70	1.16%	-0.40%	29.18M
+134	Tools & Accessories	10	65.80B	2.15%	22.64	16.47	2.97	3.56%	-0.54%	13.75M
+135	Travel Services	20	507.68B	0.47%	28.27	19.40	1.66	4.49%	2.12%	135.24M
+136	Trucking	16	85.62B	0.74%	31.05	22.92	1.72	4.99%	1.78%	28.02M
+137	Uranium	10	45.95B	0.14%	162.72	55.63	3.68	9.98%	-2.15%	239.88M
+138	Utilities - Diversified	8	94.43B	3.99%	17.08	14.03	3.89	1.71%	0.09%	32.20M
+139	Utilities - Independent Power Producers	7	120.67B	0.82%	24.30	20.55	2.54	2.86%	1.76%	25.58M
+140	Utilities - Regulated Electric	40	1106.58B	3.56%	19.11	15.13	2.24	1.89%	0.03%	193.85M
+141	Utilities - Regulated Gas	15	87.04B	3.17%	20.33	15.71	2.13	3.51%	0.01%	22.29M
+142	Utilities - Regulated Water	14	63.44B	2.57%	15.67	17.73	1.77	1.90%	-0.10%	11.28M
+143	Utilities - Renewable	22	154.10B	1.35%	31.65	25.56	2.26	3.86%	-0.60%	22.27M
+144	Waste Management	19	256.34B	0.94%	44.44	31.25	4.00	2.25%	-0.10%	14.14M
