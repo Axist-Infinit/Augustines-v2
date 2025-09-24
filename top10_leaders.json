@@ -1,0 +1,1826 @@
+[
+  {
+    "snapshot_date": "2025-08-26",
+    "run_at": "2025-08-27T12:45:16",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Broadcasting",
+        "Sector": "Communication Services",
+        "RankScore": 0.5429885387420654
+      },
+      {
+        "Name": "Airports & Air Services",
+        "Sector": "Industrials",
+        "RankScore": 0.39731308817863464
+      },
+      {
+        "Name": "Auto Manufacturers",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.3966159224510193
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.3725578188896179
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 0.36422598361968994
+      },
+      {
+        "Name": "Biotechnology",
+        "Sector": "Healthcare",
+        "RankScore": 0.3419964909553528
+      },
+      {
+        "Name": "Engineering & Construction",
+        "Sector": "Industrials",
+        "RankScore": 0.33546972274780273
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 0.30434587597846985
+      },
+      {
+        "Name": "Uranium",
+        "Sector": "Energy",
+        "RankScore": 0.28841128945350647
+      },
+      {
+        "Name": "Capital Markets",
+        "Sector": "Financial",
+        "RankScore": 0.28783297538757324
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-08-26",
+    "run_at": "2025-08-28T00:13:35",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Broadcasting",
+        "Sector": "Communication Services",
+        "RankScore": 0.5429885387420654
+      },
+      {
+        "Name": "Airports & Air Services",
+        "Sector": "Industrials",
+        "RankScore": 0.39731308817863464
+      },
+      {
+        "Name": "Auto Manufacturers",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.3966159224510193
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.3725578188896179
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 0.36422598361968994
+      },
+      {
+        "Name": "Biotechnology",
+        "Sector": "Healthcare",
+        "RankScore": 0.3419964909553528
+      },
+      {
+        "Name": "Engineering & Construction",
+        "Sector": "Industrials",
+        "RankScore": 0.33546972274780273
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 0.30434587597846985
+      },
+      {
+        "Name": "Uranium",
+        "Sector": "Energy",
+        "RankScore": 0.28841128945350647
+      },
+      {
+        "Name": "Capital Markets",
+        "Sector": "Financial",
+        "RankScore": 0.28783297538757324
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-08-28",
+    "run_at": "2025-08-29T11:45:12",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Engineering & Construction",
+        "Sector": "Industrials",
+        "RankScore": 0.4647285044193268
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 0.45753219723701477
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.4473450779914856
+      },
+      {
+        "Name": "Airports & Air Services",
+        "Sector": "Industrials",
+        "RankScore": 0.35860636830329895
+      },
+      {
+        "Name": "Real Estate Services",
+        "Sector": "Real Estate",
+        "RankScore": 0.34620237350463867
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.3310738503932953
+      },
+      {
+        "Name": "Textile Manufacturing",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.2745931148529053
+      },
+      {
+        "Name": "Metal Fabrication",
+        "Sector": "Industrials",
+        "RankScore": 0.2656257152557373
+      },
+      {
+        "Name": "Advertising Agencies",
+        "Sector": "Communication Services",
+        "RankScore": 0.22109107673168182
+      },
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.2201760858297348
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-05",
+    "run_at": "2025-09-08T05:08:23",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.39555829763412476
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 0.3075374960899353
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 0.3059424161911011
+      },
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.2605012059211731
+      },
+      {
+        "Name": "Engineering & Construction",
+        "Sector": "Industrials",
+        "RankScore": 0.21159407496452332
+      },
+      {
+        "Name": "Airports & Air Services",
+        "Sector": "Industrials",
+        "RankScore": 0.2047671526670456
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.19895385205745697
+      },
+      {
+        "Name": "Luxury Goods",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.1960238665342331
+      },
+      {
+        "Name": "Textile Manufacturing",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.1948012113571167
+      },
+      {
+        "Name": "Gold",
+        "Sector": "Basic Materials",
+        "RankScore": 0.1877371221780777
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-12",
+    "run_at": "2025-09-14T23:43:01",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.39835506677627563
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.36614418029785156
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.33774974942207336
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.28316518664360046
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.2390632927417755
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.22719085216522217
+      },
+      {
+        "Name": "Broadcasting",
+        "Sector": "Communication Services",
+        "RankScore": 0.21749109029769897
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.1741807758808136
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.13523375988006592
+      },
+      {
+        "Name": "Beverages - Brewers",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.10899946093559265
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-12",
+    "run_at": "2025-09-15T00:03:48",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.39835506677627563
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.36614418029785156
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.33774974942207336
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.28316518664360046
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.2390632927417755
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.22719085216522217
+      },
+      {
+        "Name": "Broadcasting",
+        "Sector": "Communication Services",
+        "RankScore": 0.21749109029769897
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.1741807758808136
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.13523375988006592
+      },
+      {
+        "Name": "Beverages - Brewers",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.10899946093559265
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-12",
+    "run_at": "2025-09-15T00:05:19",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.39835506677627563
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.36614418029785156
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.33774974942207336
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.28316518664360046
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.2390632927417755
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.22719085216522217
+      },
+      {
+        "Name": "Broadcasting",
+        "Sector": "Communication Services",
+        "RankScore": 0.21749109029769897
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.1741807758808136
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.13523375988006592
+      },
+      {
+        "Name": "Beverages - Brewers",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.10899946093559265
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-12",
+    "run_at": "2025-09-15T09:23:45",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.39835506677627563
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.36614418029785156
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.33774974942207336
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.28316518664360046
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.2390632927417755
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.22719085216522217
+      },
+      {
+        "Name": "Broadcasting",
+        "Sector": "Communication Services",
+        "RankScore": 0.21749109029769897
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.1741807758808136
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.13523375988006592
+      },
+      {
+        "Name": "Beverages - Brewers",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.10899946093559265
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-12",
+    "run_at": "2025-09-15T10:36:35",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.39835506677627563
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.36614418029785156
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.33774974942207336
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.28316518664360046
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.2390632927417755
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.22719085216522217
+      },
+      {
+        "Name": "Broadcasting",
+        "Sector": "Communication Services",
+        "RankScore": 0.21749109029769897
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.1741807758808136
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.13523375988006592
+      },
+      {
+        "Name": "Beverages - Brewers",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.10899946093559265
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-12",
+    "run_at": "2025-09-15T11:16:42",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.39835506677627563
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.36614418029785156
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.33774974942207336
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.28316518664360046
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.2390632927417755
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.22719085216522217
+      },
+      {
+        "Name": "Broadcasting",
+        "Sector": "Communication Services",
+        "RankScore": 0.21749109029769897
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.1741807758808136
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.13523375988006592
+      },
+      {
+        "Name": "Beverages - Brewers",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.10899946093559265
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-12",
+    "run_at": "2025-09-15T11:33:53",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.395372211933136
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.29597049951553345
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.24362055957317352
+      },
+      {
+        "Name": "Beverages - Brewers",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.19166001677513123
+      },
+      {
+        "Name": "Broadcasting",
+        "Sector": "Communication Services",
+        "RankScore": 0.1688583791255951
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.1674959361553192
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.12089792639017105
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.09388463944196701
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.08573109656572342
+      },
+      {
+        "Name": "Drug Manufacturers - Specialty & Generic",
+        "Sector": "Healthcare",
+        "RankScore": 0.07105172425508499
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-15",
+    "run_at": "2025-09-16T00:32:29",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.43664291501045227
+      },
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.3648144006729126
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.30981913208961487
+      },
+      {
+        "Name": "REIT - Healthcare Facilities",
+        "Sector": "Real Estate",
+        "RankScore": 0.28500446677207947
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.26090487837791443
+      },
+      {
+        "Name": "Drug Manufacturers - Specialty & Generic",
+        "Sector": "Healthcare",
+        "RankScore": 0.22758689522743225
+      },
+      {
+        "Name": "Healthcare Plans",
+        "Sector": "Healthcare",
+        "RankScore": 0.2080700695514679
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.18782831728458405
+      },
+      {
+        "Name": "REIT - Industrial",
+        "Sector": "Real Estate",
+        "RankScore": 0.18259885907173157
+      },
+      {
+        "Name": "Broadcasting",
+        "Sector": "Communication Services",
+        "RankScore": 0.17769978940486908
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-15",
+    "run_at": "2025-09-16T00:56:28",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.43664291501045227
+      },
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.3648144006729126
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.30981913208961487
+      },
+      {
+        "Name": "REIT - Healthcare Facilities",
+        "Sector": "Real Estate",
+        "RankScore": 0.28500446677207947
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.26090487837791443
+      },
+      {
+        "Name": "Drug Manufacturers - Specialty & Generic",
+        "Sector": "Healthcare",
+        "RankScore": 0.22758689522743225
+      },
+      {
+        "Name": "Healthcare Plans",
+        "Sector": "Healthcare",
+        "RankScore": 0.2080700695514679
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.18782831728458405
+      },
+      {
+        "Name": "REIT - Industrial",
+        "Sector": "Real Estate",
+        "RankScore": 0.18259885907173157
+      },
+      {
+        "Name": "Broadcasting",
+        "Sector": "Communication Services",
+        "RankScore": 0.17769978940486908
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-16",
+    "run_at": "2025-09-16T23:42:27",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.6148473620414734
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.6111265420913696
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.3864104151725769
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.38628968596458435
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.3037411868572235
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.25640133023262024
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.1974009871482849
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.1833214908838272
+      },
+      {
+        "Name": "Steel",
+        "Sector": "Basic Materials",
+        "RankScore": 0.17208907008171082
+      },
+      {
+        "Name": "Mortgage Finance",
+        "Sector": "Financial",
+        "RankScore": 0.15954291820526123
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-16",
+    "run_at": "2025-09-17T15:17:19",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.6148473620414734
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.6111265420913696
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.3864104151725769
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.38628968596458435
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.3037411868572235
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.25640133023262024
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.1974009871482849
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.1833214908838272
+      },
+      {
+        "Name": "Steel",
+        "Sector": "Basic Materials",
+        "RankScore": 0.17208907008171082
+      },
+      {
+        "Name": "Mortgage Finance",
+        "Sector": "Financial",
+        "RankScore": 0.15954291820526123
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-17",
+    "run_at": "2025-09-18T01:02:00",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.6174498796463013
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.5846053957939148
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.4561035931110382
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.39829444885253906
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.32313787937164307
+      },
+      {
+        "Name": "Steel",
+        "Sector": "Basic Materials",
+        "RankScore": 0.21975243091583252
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.21298867464065552
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.18397477269172668
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.16067734360694885
+      },
+      {
+        "Name": "Real Estate Services",
+        "Sector": "Real Estate",
+        "RankScore": 0.1468692123889923
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-17",
+    "run_at": "2025-09-18T10:38:46",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.6174498796463013
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.5846053957939148
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.4561035931110382
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.39829444885253906
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.32313787937164307
+      },
+      {
+        "Name": "Steel",
+        "Sector": "Basic Materials",
+        "RankScore": 0.21975243091583252
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.21298867464065552
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.18397477269172668
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.16067734360694885
+      },
+      {
+        "Name": "Real Estate Services",
+        "Sector": "Real Estate",
+        "RankScore": 0.1468692123889923
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-17",
+    "run_at": "2025-09-18T13:29:02",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.6174498796463013
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.5846053957939148
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.4561035931110382
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.39829444885253906
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.32313787937164307
+      },
+      {
+        "Name": "Steel",
+        "Sector": "Basic Materials",
+        "RankScore": 0.21975243091583252
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.21298867464065552
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.18397477269172668
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.16067734360694885
+      },
+      {
+        "Name": "Real Estate Services",
+        "Sector": "Real Estate",
+        "RankScore": 0.1468692123889923
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-17",
+    "run_at": "2025-09-18T17:19:22",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.6174498796463013
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.5846053957939148
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.4561035931110382
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.39829444885253906
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.32313787937164307
+      },
+      {
+        "Name": "Steel",
+        "Sector": "Basic Materials",
+        "RankScore": 0.21975243091583252
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.21298867464065552
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.18397477269172668
+      },
+      {
+        "Name": "Residential Construction",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.16067734360694885
+      },
+      {
+        "Name": "Real Estate Services",
+        "Sector": "Real Estate",
+        "RankScore": 0.1468692123889923
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-17",
+    "run_at": "2025-09-18T23:24:37",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.40542349219322205
+      },
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.3431546688079834
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.31732213497161865
+      },
+      {
+        "Name": "Healthcare Plans",
+        "Sector": "Healthcare",
+        "RankScore": 0.2282317727804184
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.17906109988689423
+      },
+      {
+        "Name": "REIT - Healthcare Facilities",
+        "Sector": "Real Estate",
+        "RankScore": 0.16616381704807281
+      },
+      {
+        "Name": "REIT - Residential",
+        "Sector": "Real Estate",
+        "RankScore": 0.15563775599002838
+      },
+      {
+        "Name": "Drug Manufacturers - Specialty & Generic",
+        "Sector": "Healthcare",
+        "RankScore": 0.13784898817539215
+      },
+      {
+        "Name": "REIT - Industrial",
+        "Sector": "Real Estate",
+        "RankScore": 0.13057322800159454
+      },
+      {
+        "Name": "REIT - Mortgage",
+        "Sector": "Real Estate",
+        "RankScore": 0.11100364476442337
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-18",
+    "run_at": "2025-09-19T00:20:29",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.46594738960266113
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.4248617887496948
+      },
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.41764652729034424
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.21721015870571136
+      },
+      {
+        "Name": "Healthcare Plans",
+        "Sector": "Healthcare",
+        "RankScore": 0.21102729439735413
+      },
+      {
+        "Name": "REIT - Healthcare Facilities",
+        "Sector": "Real Estate",
+        "RankScore": 0.1771693378686905
+      },
+      {
+        "Name": "Steel",
+        "Sector": "Basic Materials",
+        "RankScore": 0.16806188225746155
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.16344301402568817
+      },
+      {
+        "Name": "REIT - Industrial",
+        "Sector": "Real Estate",
+        "RankScore": 0.1617322564125061
+      },
+      {
+        "Name": "Gold",
+        "Sector": "Basic Materials",
+        "RankScore": 0.1551826298236847
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-18",
+    "run_at": "2025-09-19T00:48:35",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.46594738960266113
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.4248617887496948
+      },
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.41764652729034424
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.21721015870571136
+      },
+      {
+        "Name": "Healthcare Plans",
+        "Sector": "Healthcare",
+        "RankScore": 0.21102729439735413
+      },
+      {
+        "Name": "REIT - Healthcare Facilities",
+        "Sector": "Real Estate",
+        "RankScore": 0.1771693378686905
+      },
+      {
+        "Name": "Steel",
+        "Sector": "Basic Materials",
+        "RankScore": 0.16806188225746155
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.16344301402568817
+      },
+      {
+        "Name": "REIT - Industrial",
+        "Sector": "Real Estate",
+        "RankScore": 0.1617322564125061
+      },
+      {
+        "Name": "Gold",
+        "Sector": "Basic Materials",
+        "RankScore": 0.1551826298236847
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-18",
+    "run_at": "2025-09-19T12:23:54",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.7211415767669678
+      },
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 0.6571647524833679
+      },
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 0.5783282518386841
+      },
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 0.47105586528778076
+      },
+      {
+        "Name": "REIT - Office",
+        "Sector": "Real Estate",
+        "RankScore": 0.45198214054107666
+      },
+      {
+        "Name": "Aluminum",
+        "Sector": "Basic Materials",
+        "RankScore": 0.35546377301216125
+      },
+      {
+        "Name": "Real Estate Services",
+        "Sector": "Real Estate",
+        "RankScore": 0.29472777247428894
+      },
+      {
+        "Name": "Steel",
+        "Sector": "Basic Materials",
+        "RankScore": 0.2139814794063568
+      },
+      {
+        "Name": "Oil & Gas Refining & Marketing",
+        "Sector": "Energy",
+        "RankScore": 0.20857036113739014
+      },
+      {
+        "Name": "Farm Products",
+        "Sector": "Consumer Defensive",
+        "RankScore": 0.18645913898944855
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-19",
+    "run_at": "2025-09-21T00:55:39",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 2000000036.391992
+      },
+      {
+        "Name": "Auto Manufacturers",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 2000000022.6521432
+      },
+      {
+        "Name": "Semiconductor Equipment & Materials",
+        "Sector": "Technology",
+        "RankScore": 2000000020.7370684
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 2000000018.8116186
+      },
+      {
+        "Name": "Thermal Coal",
+        "Sector": "Energy",
+        "RankScore": 2000000012.804795
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 2000000011.5372534
+      },
+      {
+        "Name": "Luxury Goods",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 2000000010.5653567
+      },
+      {
+        "Name": "Advertising Agencies",
+        "Sector": "Communication Services",
+        "RankScore": 2000000009.7257552
+      },
+      {
+        "Name": "Department Stores",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 2000000008.7831464
+      },
+      {
+        "Name": "Banks - Diversified",
+        "Sector": "Financial",
+        "RankScore": 2000000008.5823202
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-19",
+    "run_at": "2025-09-21T09:47:54",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 1.0
+      },
+      {
+        "Name": "Auto Manufacturers",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.9930555555555556
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 0.9861111111111112
+      },
+      {
+        "Name": "Semiconductor Equipment & Materials",
+        "Sector": "Technology",
+        "RankScore": 0.9791666666666666
+      },
+      {
+        "Name": "Uranium",
+        "Sector": "Energy",
+        "RankScore": 0.9722222222222222
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 0.9652777777777778
+      },
+      {
+        "Name": "Advertising Agencies",
+        "Sector": "Communication Services",
+        "RankScore": 0.9583333333333334
+      },
+      {
+        "Name": "Thermal Coal",
+        "Sector": "Energy",
+        "RankScore": 0.9513888888888888
+      },
+      {
+        "Name": "Department Stores",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.9444444444444444
+      },
+      {
+        "Name": "Internet Content & Information",
+        "Sector": "Communication Services",
+        "RankScore": 0.9375
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-19",
+    "run_at": "2025-09-21T10:07:20",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 1.0
+      },
+      {
+        "Name": "Auto Manufacturers",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.9930555555555556
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 0.9861111111111112
+      },
+      {
+        "Name": "Semiconductor Equipment & Materials",
+        "Sector": "Technology",
+        "RankScore": 0.9791666666666666
+      },
+      {
+        "Name": "Uranium",
+        "Sector": "Energy",
+        "RankScore": 0.9722222222222222
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 0.9652777777777778
+      },
+      {
+        "Name": "Advertising Agencies",
+        "Sector": "Communication Services",
+        "RankScore": 0.9583333333333334
+      },
+      {
+        "Name": "Thermal Coal",
+        "Sector": "Energy",
+        "RankScore": 0.9513888888888888
+      },
+      {
+        "Name": "Department Stores",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.9444444444444444
+      },
+      {
+        "Name": "Internet Content & Information",
+        "Sector": "Communication Services",
+        "RankScore": 0.9375
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-19",
+    "run_at": "2025-09-21T20:40:16",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 1.0
+      },
+      {
+        "Name": "Auto Manufacturers",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.9930555555555556
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 0.9861111111111112
+      },
+      {
+        "Name": "Semiconductor Equipment & Materials",
+        "Sector": "Technology",
+        "RankScore": 0.9791666666666666
+      },
+      {
+        "Name": "Uranium",
+        "Sector": "Energy",
+        "RankScore": 0.9722222222222222
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 0.9652777777777778
+      },
+      {
+        "Name": "Advertising Agencies",
+        "Sector": "Communication Services",
+        "RankScore": 0.9583333333333334
+      },
+      {
+        "Name": "Thermal Coal",
+        "Sector": "Energy",
+        "RankScore": 0.9513888888888888
+      },
+      {
+        "Name": "Department Stores",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.9444444444444444
+      },
+      {
+        "Name": "Internet Content & Information",
+        "Sector": "Communication Services",
+        "RankScore": 0.9375
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-19",
+    "run_at": "2025-09-22T11:22:58",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Coking Coal",
+        "Sector": "Energy",
+        "RankScore": 1.0
+      },
+      {
+        "Name": "Auto Manufacturers",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.9930555555555556
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 0.9861111111111112
+      },
+      {
+        "Name": "Semiconductor Equipment & Materials",
+        "Sector": "Technology",
+        "RankScore": 0.9791666666666666
+      },
+      {
+        "Name": "Uranium",
+        "Sector": "Energy",
+        "RankScore": 0.9722222222222222
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 0.9652777777777778
+      },
+      {
+        "Name": "Advertising Agencies",
+        "Sector": "Communication Services",
+        "RankScore": 0.9583333333333334
+      },
+      {
+        "Name": "Thermal Coal",
+        "Sector": "Energy",
+        "RankScore": 0.9513888888888888
+      },
+      {
+        "Name": "Department Stores",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.9444444444444444
+      },
+      {
+        "Name": "Internet Content & Information",
+        "Sector": "Communication Services",
+        "RankScore": 0.9375
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-22",
+    "run_at": "2025-09-22T23:08:43",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 1.0
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 0.9930555555555556
+      },
+      {
+        "Name": "Auto Manufacturers",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.9861111111111112
+      },
+      {
+        "Name": "Semiconductor Equipment & Materials",
+        "Sector": "Technology",
+        "RankScore": 0.9791666666666666
+      },
+      {
+        "Name": "Advertising Agencies",
+        "Sector": "Communication Services",
+        "RankScore": 0.9722222222222222
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 0.9652777777777778
+      },
+      {
+        "Name": "Thermal Coal",
+        "Sector": "Energy",
+        "RankScore": 0.9583333333333334
+      },
+      {
+        "Name": "Utilities - Independent Power Producers",
+        "Sector": "Utilities",
+        "RankScore": 0.9513888888888888
+      },
+      {
+        "Name": "Utilities - Renewable",
+        "Sector": "Utilities",
+        "RankScore": 0.9444444444444444
+      },
+      {
+        "Name": "Consumer Electronics",
+        "Sector": "Technology",
+        "RankScore": 0.9375
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-22",
+    "run_at": "2025-09-23T00:19:10",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 1.0
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 0.9930555555555556
+      },
+      {
+        "Name": "Auto Manufacturers",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.9861111111111112
+      },
+      {
+        "Name": "Semiconductor Equipment & Materials",
+        "Sector": "Technology",
+        "RankScore": 0.9791666666666666
+      },
+      {
+        "Name": "Advertising Agencies",
+        "Sector": "Communication Services",
+        "RankScore": 0.9722222222222222
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 0.9652777777777778
+      },
+      {
+        "Name": "Thermal Coal",
+        "Sector": "Energy",
+        "RankScore": 0.9583333333333334
+      },
+      {
+        "Name": "Utilities - Independent Power Producers",
+        "Sector": "Utilities",
+        "RankScore": 0.9513888888888888
+      },
+      {
+        "Name": "Utilities - Renewable",
+        "Sector": "Utilities",
+        "RankScore": 0.9444444444444444
+      },
+      {
+        "Name": "Consumer Electronics",
+        "Sector": "Technology",
+        "RankScore": 0.9375
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-22",
+    "run_at": "2025-09-23T09:08:36",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Solar",
+        "Sector": "Technology",
+        "RankScore": 1.0
+      },
+      {
+        "Name": "Electrical Equipment & Parts",
+        "Sector": "Industrials",
+        "RankScore": 0.9930555555555556
+      },
+      {
+        "Name": "Auto Manufacturers",
+        "Sector": "Consumer Cyclical",
+        "RankScore": 0.9861111111111112
+      },
+      {
+        "Name": "Semiconductor Equipment & Materials",
+        "Sector": "Technology",
+        "RankScore": 0.9791666666666666
+      },
+      {
+        "Name": "Advertising Agencies",
+        "Sector": "Communication Services",
+        "RankScore": 0.9722222222222222
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 0.9652777777777778
+      },
+      {
+        "Name": "Thermal Coal",
+        "Sector": "Energy",
+        "RankScore": 0.9583333333333334
+      },
+      {
+        "Name": "Utilities - Independent Power Producers",
+        "Sector": "Utilities",
+        "RankScore": 0.9513888888888888
+      },
+      {
+        "Name": "Utilities - Renewable",
+        "Sector": "Utilities",
+        "RankScore": 0.9444444444444444
+      },
+      {
+        "Name": "Consumer Electronics",
+        "Sector": "Technology",
+        "RankScore": 0.9375
+      }
+    ]
+  },
+  {
+    "snapshot_date": "2025-09-23",
+    "run_at": "2025-09-23T22:32:57",
+    "top_k": 10,
+    "leaders": [
+      {
+        "Name": "Silver",
+        "Sector": "Basic Materials",
+        "RankScore": 1.0
+      },
+      {
+        "Name": "Gold",
+        "Sector": "Basic Materials",
+        "RankScore": 0.9930555555555556
+      },
+      {
+        "Name": "Other Precious Metals & Mining",
+        "Sector": "Basic Materials",
+        "RankScore": 0.9861111111111112
+      },
+      {
+        "Name": "Semiconductor Equipment & Materials",
+        "Sector": "Technology",
+        "RankScore": 0.9791666666666666
+      },
+      {
+        "Name": "Uranium",
+        "Sector": "Energy",
+        "RankScore": 0.9722222222222222
+      },
+      {
+        "Name": "Thermal Coal",
+        "Sector": "Energy",
+        "RankScore": 0.9652777777777778
+      },
+      {
+        "Name": "Computer Hardware",
+        "Sector": "Technology",
+        "RankScore": 0.9583333333333334
+      },
+      {
+        "Name": "Advertising Agencies",
+        "Sector": "Communication Services",
+        "RankScore": 0.9513888888888888
+      },
+      {
+        "Name": "Utilities - Diversified",
+        "Sector": "Utilities",
+        "RankScore": 0.9444444444444444
+      },
+      {
+        "Name": "Oil & Gas Refining & Marketing",
+        "Sector": "Energy",
+        "RankScore": 0.9375
+      }
+    ]
+  }
+]
